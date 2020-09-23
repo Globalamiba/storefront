@@ -29,9 +29,6 @@
     "post-update-cmd": [
       "WooCommerce\\GitHooks\\Hooks::postHooks"
     ],
-    "test": [
-      "phpunit"
-    ],
     "phpcs": [
       "phpcs --extensions=php -s -p"
     ],
